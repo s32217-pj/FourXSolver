@@ -216,6 +216,6 @@ class FourXGame(TwoPlayerGame):
 
 
 if __name__ == "__main__":
-    ai = Negamax(6)
+    ai = Negamax(3)
     game = FourXGame([Human_Player(), AI_Player(ai)])
     game.play()
