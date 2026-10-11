@@ -6,3 +6,7 @@
 - w folderze easyAI jest folder AI, kopiujemy go do .venv/Lib/easyAI
 - odpalamy kod: ```python 4X_solver.py```
 - Cieszymy się grą
+
+
+## Screen z gry
+![Screenshot](./screenshot.png)
